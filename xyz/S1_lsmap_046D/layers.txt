@@ -1,0 +1,27 @@
+{
+  "layers": [
+    {
+      "type": "LayerGroup",
+      "title": "",
+      "entries": [
+        {
+          "type": "Layer",
+          "id": "",
+          "title": "tiles_merged_046D_lsmap_c",
+          "iconUrl": "",
+          "url": "http://XXX/tiles_merged_046D_lsmap_c/{z}/{x}/{y}.png",
+          "subdomains": "",
+          "attribution": "",
+          "errorTileUrl": "",
+          "cocotile": false,
+          "minZoom": 5,
+          "maxZoom": 18,
+          "maxNativeZoom": 13,
+          "tms": false,
+          "legendUrl": "",
+          "html": ""
+        }
+      ]
+    }
+  ]
+}
