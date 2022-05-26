@@ -1,0 +1,4961 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "15",
+        "FRAME": "2700",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                148.18249,
+                45.67343
+              ],
+              [
+                148.02886,
+                45.08158
+              ],
+              [
+                147.33147,
+                45.1704
+              ],
+              [
+                147.47762,
+                45.76235
+              ],
+              [
+                148.18249,
+                45.67343
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "15",
+        "FRAME": "2710",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                148.05421,
+                45.18025
+              ],
+              [
+                147.90207,
+                44.58826
+              ],
+              [
+                147.21073,
+                44.67701
+              ],
+              [
+                147.35557,
+                45.26909
+              ],
+              [
+                148.05421,
+                45.18025
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "15",
+        "FRAME": "2720",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                147.92718,
+                44.68696
+              ],
+              [
+                147.77648,
+                44.09484
+              ],
+              [
+                147.09102,
+                44.18353
+              ],
+              [
+                147.23461,
+                44.77572
+              ],
+              [
+                147.92718,
+                44.68696
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "16",
+        "FRAME": "2720",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                146.18805,
+                44.68696
+              ],
+              [
+                146.03735,
+                44.09484
+              ],
+              [
+                145.35189,
+                44.18353
+              ],
+              [
+                145.49548,
+                44.77572
+              ],
+              [
+                146.18805,
+                44.68696
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "16",
+        "FRAME": "2730",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                146.06222,
+                44.19355
+              ],
+              [
+                145.9129,
+                43.60131
+              ],
+              [
+                145.23319,
+                43.68994
+              ],
+              [
+                145.37558,
+                44.28225
+              ],
+              [
+                146.06222,
+                44.19355
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "16",
+        "FRAME": "2740",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                145.93755,
+                43.70004
+              ],
+              [
+                145.7903,
+                43.10756
+              ],
+              [
+                145.11632,
+                43.19614
+              ],
+              [
+                145.25668,
+                43.78869
+              ],
+              [
+                145.93755,
+                43.70004
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "16",
+        "FRAME": "2750",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                145.81474,
+                43.20632
+              ],
+              [
+                145.66802,
+                42.61382
+              ],
+              [
+                144.99951,
+                42.70236
+              ],
+              [
+                145.13962,
+                43.29491
+              ],
+              [
+                145.81474,
+                43.20632
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "16",
+        "FRAME": "3060",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                142.36929,
+                27.85851
+              ],
+              [
+                142.2457,
+                27.26292
+              ],
+              [
+                141.69549,
+                27.35344
+              ],
+              [
+                141.81596,
+                27.94886
+              ],
+              [
+                142.36929,
+                27.85851
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "16",
+        "FRAME": "3070",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                142.26616,
+                27.36221
+              ],
+              [
+                142.14294,
+                26.76655
+              ],
+              [
+                141.59524,
+                26.8572
+              ],
+              [
+                141.71543,
+                27.4527
+              ],
+              [
+                142.26616,
+                27.36221
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "16",
+        "FRAME": "3080",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                142.16335,
+                26.86585
+              ],
+              [
+                142.04108,
+                26.27001
+              ],
+              [
+                141.49591,
+                26.36079
+              ],
+              [
+                141.61513,
+                26.95648
+              ],
+              [
+                142.16335,
+                26.86585
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "16",
+        "FRAME": "3120",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                141.75546,
+                24.87971
+              ],
+              [
+                141.6338,
+                24.2837
+              ],
+              [
+                141.09779,
+                24.37508
+              ],
+              [
+                141.21678,
+                24.97091
+              ],
+              [
+                141.75546,
+                24.87971
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "16",
+        "FRAME": "3130",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                141.65396,
+                24.38305
+              ],
+              [
+                141.53257,
+                23.78698
+              ],
+              [
+                140.9987,
+                23.87852
+              ],
+              [
+                141.11749,
+                24.47441
+              ],
+              [
+                141.65396,
+                24.38305
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "17",
+        "FRAME": "2720",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                144.44892,
+                44.68696
+              ],
+              [
+                144.29822,
+                44.09484
+              ],
+              [
+                143.61276,
+                44.18353
+              ],
+              [
+                143.75635,
+                44.77572
+              ],
+              [
+                144.44892,
+                44.68696
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "17",
+        "FRAME": "2730",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                144.32309,
+                44.19355
+              ],
+              [
+                144.17377,
+                43.60131
+              ],
+              [
+                143.49406,
+                43.68994
+              ],
+              [
+                143.63645,
+                44.28225
+              ],
+              [
+                144.32309,
+                44.19355
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "17",
+        "FRAME": "2740",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                144.19842,
+                43.70004
+              ],
+              [
+                144.05117,
+                43.10756
+              ],
+              [
+                143.37719,
+                43.19614
+              ],
+              [
+                143.51755,
+                43.78869
+              ],
+              [
+                144.19842,
+                43.70004
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "17",
+        "FRAME": "2750",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                144.07561,
+                43.20632
+              ],
+              [
+                143.92889,
+                42.61382
+              ],
+              [
+                143.26038,
+                42.70236
+              ],
+              [
+                143.40049,
+                43.29491
+              ],
+              [
+                144.07561,
+                43.20632
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "17",
+        "FRAME": "2760",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                143.95312,
+                42.7126
+              ],
+              [
+                143.80764,
+                42.11997
+              ],
+              [
+                143.14447,
+                42.20849
+              ],
+              [
+                143.2835,
+                42.80115
+              ],
+              [
+                143.95312,
+                42.7126
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "17",
+        "FRAME": "2770",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                143.83166,
+                42.21877
+              ],
+              [
+                143.68811,
+                41.62592
+              ],
+              [
+                143.03025,
+                41.71441
+              ],
+              [
+                143.16741,
+                42.30729
+              ],
+              [
+                143.83166,
+                42.21877
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "18",
+        "FRAME": "2700",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                142.9651,
+                45.67343
+              ],
+              [
+                142.81147,
+                45.08158
+              ],
+              [
+                142.11408,
+                45.1704
+              ],
+              [
+                142.26023,
+                45.76235
+              ],
+              [
+                142.9651,
+                45.67343
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "18",
+        "FRAME": "2710",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                142.83682,
+                45.18025
+              ],
+              [
+                142.68468,
+                44.58826
+              ],
+              [
+                141.99333,
+                44.67701
+              ],
+              [
+                142.13818,
+                45.26909
+              ],
+              [
+                142.83682,
+                45.18025
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "18",
+        "FRAME": "2720",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                142.70979,
+                44.68696
+              ],
+              [
+                142.55909,
+                44.09484
+              ],
+              [
+                141.87363,
+                44.18353
+              ],
+              [
+                142.01722,
+                44.77572
+              ],
+              [
+                142.70979,
+                44.68696
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "18",
+        "FRAME": "2730",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                142.58396,
+                44.19355
+              ],
+              [
+                142.43464,
+                43.60131
+              ],
+              [
+                141.75493,
+                43.68994
+              ],
+              [
+                141.89732,
+                44.28225
+              ],
+              [
+                142.58396,
+                44.19355
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "18",
+        "FRAME": "2740",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                142.45929,
+                43.70004
+              ],
+              [
+                142.31204,
+                43.10756
+              ],
+              [
+                141.63806,
+                43.19614
+              ],
+              [
+                141.77842,
+                43.78869
+              ],
+              [
+                142.45929,
+                43.70004
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "18",
+        "FRAME": "2750",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                142.33647,
+                43.20632
+              ],
+              [
+                142.18976,
+                42.61382
+              ],
+              [
+                141.52125,
+                42.70236
+              ],
+              [
+                141.66136,
+                43.29491
+              ],
+              [
+                142.33647,
+                43.20632
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "18",
+        "FRAME": "2760",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                142.21399,
+                42.7126
+              ],
+              [
+                142.06851,
+                42.11997
+              ],
+              [
+                141.40534,
+                42.20849
+              ],
+              [
+                141.54437,
+                42.80115
+              ],
+              [
+                142.21399,
+                42.7126
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "18",
+        "FRAME": "2780",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                141.97281,
+                41.72474
+              ],
+              [
+                141.82967,
+                41.13187
+              ],
+              [
+                141.1769,
+                41.22035
+              ],
+              [
+                141.3139,
+                41.81323
+              ],
+              [
+                141.97281,
+                41.72474
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "18",
+        "FRAME": "2790",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                141.85331,
+                41.23071
+              ],
+              [
+                141.71128,
+                40.63772
+              ],
+              [
+                141.06347,
+                40.72619
+              ],
+              [
+                141.19951,
+                41.31919
+              ],
+              [
+                141.85331,
+                41.23071
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "18",
+        "FRAME": "2800",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                141.73474,
+                40.73658
+              ],
+              [
+                141.59378,
+                40.14348
+              ],
+              [
+                140.95081,
+                40.23195
+              ],
+              [
+                141.08593,
+                40.82505
+              ],
+              [
+                141.73474,
+                40.73658
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "18",
+        "FRAME": "2810",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                141.61707,
+                40.24235
+              ],
+              [
+                141.47714,
+                39.64914
+              ],
+              [
+                140.8389,
+                39.73762
+              ],
+              [
+                140.97312,
+                40.33083
+              ],
+              [
+                141.61707,
+                40.24235
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "18",
+        "FRAME": "2820",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                141.50026,
+                39.74803
+              ],
+              [
+                141.36133,
+                39.1547
+              ],
+              [
+                140.7277,
+                39.2432
+              ],
+              [
+                140.86106,
+                39.83652
+              ],
+              [
+                141.50026,
+                39.74803
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "18",
+        "FRAME": "2830",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                141.38429,
+                39.25361
+              ],
+              [
+                141.247,
+                38.66007
+              ],
+              [
+                140.61798,
+                38.74859
+              ],
+              [
+                140.74972,
+                39.34212
+              ],
+              [
+                141.38429,
+                39.25361
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "18",
+        "FRAME": "2840",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                141.26981,
+                38.759
+              ],
+              [
+                141.13275,
+                38.16545
+              ],
+              [
+                140.50812,
+                38.254
+              ],
+              [
+                140.63987,
+                38.84752
+              ],
+              [
+                141.26981,
+                38.759
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "18",
+        "FRAME": "2850",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                141.1554,
+                38.2644
+              ],
+              [
+                141.01924,
+                37.67074
+              ],
+              [
+                140.3989,
+                37.75932
+              ],
+              [
+                140.52988,
+                38.35294
+              ],
+              [
+                141.1554,
+                38.2644
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "18",
+        "FRAME": "2860",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                141.04174,
+                37.76971
+              ],
+              [
+                140.90643,
+                37.17594
+              ],
+              [
+                140.29029,
+                37.26457
+              ],
+              [
+                140.42054,
+                37.85829
+              ],
+              [
+                141.04174,
+                37.76971
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "18",
+        "FRAME": "2870",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                140.9288,
+                37.27492
+              ],
+              [
+                140.795,
+                36.68094
+              ],
+              [
+                140.18304,
+                36.76961
+              ],
+              [
+                140.3118,
+                37.36355
+              ],
+              [
+                140.9288,
+                37.27492
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "18",
+        "FRAME": "2880",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                140.81723,
+                36.77995
+              ],
+              [
+                140.68354,
+                36.18597
+              ],
+              [
+                140.07558,
+                36.27469
+              ],
+              [
+                140.20445,
+                36.86861
+              ],
+              [
+                140.81723,
+                36.77995
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "18",
+        "FRAME": "2890",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                140.70565,
+                36.28499
+              ],
+              [
+                140.57273,
+                35.69091
+              ],
+              [
+                139.96866,
+                35.7797
+              ],
+              [
+                140.09687,
+                36.37371
+              ],
+              [
+                140.70565,
+                36.28499
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "18",
+        "FRAME": "2900",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                140.59471,
+                35.78995
+              ],
+              [
+                140.46252,
+                35.19577
+              ],
+              [
+                139.86227,
+                35.28462
+              ],
+              [
+                139.98985,
+                35.87872
+              ],
+              [
+                140.59471,
+                35.78995
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "18",
+        "FRAME": "2910",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                140.48438,
+                35.29482
+              ],
+              [
+                140.35291,
+                34.70054
+              ],
+              [
+                139.75637,
+                34.78947
+              ],
+              [
+                139.88335,
+                35.38366
+              ],
+              [
+                140.48438,
+                35.29482
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "18",
+        "FRAME": "2930",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                140.26551,
+                34.30433
+              ],
+              [
+                140.13604,
+                33.70975
+              ],
+              [
+                139.54676,
+                33.79881
+              ],
+              [
+                139.67185,
+                34.39331
+              ],
+              [
+                140.26551,
+                34.30433
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "18",
+        "FRAME": "2940",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                140.15756,
+                33.80885
+              ],
+              [
+                140.02807,
+                33.21428
+              ],
+              [
+                139.44225,
+                33.30344
+              ],
+              [
+                139.56757,
+                33.8979
+              ],
+              [
+                140.15756,
+                33.80885
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "18",
+        "FRAME": "2950",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                140.04949,
+                33.3134
+              ],
+              [
+                139.92061,
+                32.71874
+              ],
+              [
+                139.33817,
+                32.80798
+              ],
+              [
+                139.46297,
+                33.40254
+              ],
+              [
+                140.04949,
+                33.3134
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "18",
+        "FRAME": "2960",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                139.94193,
+                32.81787
+              ],
+              [
+                139.81364,
+                32.22312
+              ],
+              [
+                139.23449,
+                32.31246
+              ],
+              [
+                139.3588,
+                32.9071
+              ],
+              [
+                139.94193,
+                32.81787
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "19",
+        "FRAME": "2700",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                141.22597,
+                45.67343
+              ],
+              [
+                141.07234,
+                45.08158
+              ],
+              [
+                140.37495,
+                45.1704
+              ],
+              [
+                140.5211,
+                45.76235
+              ],
+              [
+                141.22597,
+                45.67343
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "19",
+        "FRAME": "2740",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                140.72016,
+                43.70004
+              ],
+              [
+                140.57291,
+                43.10756
+              ],
+              [
+                139.89893,
+                43.19614
+              ],
+              [
+                140.03929,
+                43.78869
+              ],
+              [
+                140.72016,
+                43.70004
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "19",
+        "FRAME": "2750",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                140.59734,
+                43.20632
+              ],
+              [
+                140.45063,
+                42.61382
+              ],
+              [
+                139.78212,
+                42.70236
+              ],
+              [
+                139.92223,
+                43.29491
+              ],
+              [
+                140.59734,
+                43.20632
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "19",
+        "FRAME": "2760",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                140.47486,
+                42.7126
+              ],
+              [
+                140.32938,
+                42.11997
+              ],
+              [
+                139.6662,
+                42.20849
+              ],
+              [
+                139.80524,
+                42.80115
+              ],
+              [
+                140.47486,
+                42.7126
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "19",
+        "FRAME": "2770",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                140.3534,
+                42.21877
+              ],
+              [
+                140.20985,
+                41.62592
+              ],
+              [
+                139.55199,
+                41.71441
+              ],
+              [
+                139.68915,
+                42.30729
+              ],
+              [
+                140.3534,
+                42.21877
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "19",
+        "FRAME": "2780",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                140.23368,
+                41.72474
+              ],
+              [
+                140.09054,
+                41.13187
+              ],
+              [
+                139.43777,
+                41.22035
+              ],
+              [
+                139.57477,
+                41.81323
+              ],
+              [
+                140.23368,
+                41.72474
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "19",
+        "FRAME": "2790",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                140.11418,
+                41.23071
+              ],
+              [
+                139.97215,
+                40.63772
+              ],
+              [
+                139.32434,
+                40.72619
+              ],
+              [
+                139.46038,
+                41.31919
+              ],
+              [
+                140.11418,
+                41.23071
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "19",
+        "FRAME": "2800",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                139.99561,
+                40.73658
+              ],
+              [
+                139.85465,
+                40.14348
+              ],
+              [
+                139.21168,
+                40.23195
+              ],
+              [
+                139.3468,
+                40.82505
+              ],
+              [
+                139.99561,
+                40.73658
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "19",
+        "FRAME": "2810",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                139.87794,
+                40.24235
+              ],
+              [
+                139.73801,
+                39.64914
+              ],
+              [
+                139.09977,
+                39.73762
+              ],
+              [
+                139.23399,
+                40.33083
+              ],
+              [
+                139.87794,
+                40.24235
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "19",
+        "FRAME": "2820",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                139.76113,
+                39.74803
+              ],
+              [
+                139.6222,
+                39.1547
+              ],
+              [
+                138.98857,
+                39.2432
+              ],
+              [
+                139.12193,
+                39.83652
+              ],
+              [
+                139.76113,
+                39.74803
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "19",
+        "FRAME": "2830",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                139.64516,
+                39.25361
+              ],
+              [
+                139.50787,
+                38.66007
+              ],
+              [
+                138.87885,
+                38.74859
+              ],
+              [
+                139.01059,
+                39.34212
+              ],
+              [
+                139.64516,
+                39.25361
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "19",
+        "FRAME": "2840",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                139.53068,
+                38.759
+              ],
+              [
+                139.39362,
+                38.16545
+              ],
+              [
+                138.76899,
+                38.254
+              ],
+              [
+                138.90074,
+                38.84752
+              ],
+              [
+                139.53068,
+                38.759
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "19",
+        "FRAME": "2850",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                139.41627,
+                38.2644
+              ],
+              [
+                139.28011,
+                37.67074
+              ],
+              [
+                138.65977,
+                37.75932
+              ],
+              [
+                138.79075,
+                38.35294
+              ],
+              [
+                139.41627,
+                38.2644
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "19",
+        "FRAME": "2860",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                139.30261,
+                37.76971
+              ],
+              [
+                139.1673,
+                37.17594
+              ],
+              [
+                138.55116,
+                37.26457
+              ],
+              [
+                138.6814,
+                37.85829
+              ],
+              [
+                139.30261,
+                37.76971
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "19",
+        "FRAME": "2870",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                139.18967,
+                37.27492
+              ],
+              [
+                139.05587,
+                36.68094
+              ],
+              [
+                138.44391,
+                36.76961
+              ],
+              [
+                138.57267,
+                37.36355
+              ],
+              [
+                139.18967,
+                37.27492
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "19",
+        "FRAME": "2880",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                139.0781,
+                36.77995
+              ],
+              [
+                138.94441,
+                36.18597
+              ],
+              [
+                138.33645,
+                36.27469
+              ],
+              [
+                138.46532,
+                36.86861
+              ],
+              [
+                139.0781,
+                36.77995
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "19",
+        "FRAME": "2890",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                138.96652,
+                36.28499
+              ],
+              [
+                138.8336,
+                35.69091
+              ],
+              [
+                138.22953,
+                35.7797
+              ],
+              [
+                138.35774,
+                36.37371
+              ],
+              [
+                138.96652,
+                36.28499
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "19",
+        "FRAME": "2900",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                138.85557,
+                35.78995
+              ],
+              [
+                138.72339,
+                35.19577
+              ],
+              [
+                138.12314,
+                35.28462
+              ],
+              [
+                138.25072,
+                35.87872
+              ],
+              [
+                138.85557,
+                35.78995
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "19",
+        "FRAME": "2910",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                138.74525,
+                35.29482
+              ],
+              [
+                138.61378,
+                34.70054
+              ],
+              [
+                138.01724,
+                34.78947
+              ],
+              [
+                138.14422,
+                35.38366
+              ],
+              [
+                138.74525,
+                35.29482
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "19",
+        "FRAME": "2920",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                138.63553,
+                34.79962
+              ],
+              [
+                138.50474,
+                34.20524
+              ],
+              [
+                137.91183,
+                34.29424
+              ],
+              [
+                138.03823,
+                34.88853
+              ],
+              [
+                138.63553,
+                34.79962
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "20",
+        "FRAME": "2860",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                137.56348,
+                37.76971
+              ],
+              [
+                137.42817,
+                37.17594
+              ],
+              [
+                136.81203,
+                37.26457
+              ],
+              [
+                136.94227,
+                37.85829
+              ],
+              [
+                137.56348,
+                37.76971
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "20",
+        "FRAME": "2870",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                137.45054,
+                37.27492
+              ],
+              [
+                137.31674,
+                36.68094
+              ],
+              [
+                136.70478,
+                36.76961
+              ],
+              [
+                136.83354,
+                37.36355
+              ],
+              [
+                137.45054,
+                37.27492
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "20",
+        "FRAME": "2880",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                137.33897,
+                36.77995
+              ],
+              [
+                137.20528,
+                36.18597
+              ],
+              [
+                136.59732,
+                36.27469
+              ],
+              [
+                136.72619,
+                36.86861
+              ],
+              [
+                137.33897,
+                36.77995
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "20",
+        "FRAME": "2890",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                137.22739,
+                36.28499
+              ],
+              [
+                137.09446,
+                35.69091
+              ],
+              [
+                136.4904,
+                35.7797
+              ],
+              [
+                136.61861,
+                36.37371
+              ],
+              [
+                137.22739,
+                36.28499
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "20",
+        "FRAME": "2900",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                137.11644,
+                35.78995
+              ],
+              [
+                136.98426,
+                35.19577
+              ],
+              [
+                136.38401,
+                35.28462
+              ],
+              [
+                136.51159,
+                35.87872
+              ],
+              [
+                137.11644,
+                35.78995
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "20",
+        "FRAME": "2910",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                137.00612,
+                35.29482
+              ],
+              [
+                136.87465,
+                34.70054
+              ],
+              [
+                136.27811,
+                34.78947
+              ],
+              [
+                136.40509,
+                35.38366
+              ],
+              [
+                137.00612,
+                35.29482
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "20",
+        "FRAME": "2920",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                136.8964,
+                34.79962
+              ],
+              [
+                136.76561,
+                34.20524
+              ],
+              [
+                136.1727,
+                34.29424
+              ],
+              [
+                136.2991,
+                34.88853
+              ],
+              [
+                136.8964,
+                34.79962
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "20",
+        "FRAME": "2930",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                136.78725,
+                34.30433
+              ],
+              [
+                136.65777,
+                33.70975
+              ],
+              [
+                136.0685,
+                33.79881
+              ],
+              [
+                136.19359,
+                34.39331
+              ],
+              [
+                136.78725,
+                34.30433
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "20",
+        "FRAME": "2940",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                136.6793,
+                33.80885
+              ],
+              [
+                136.54981,
+                33.21428
+              ],
+              [
+                135.96399,
+                33.30344
+              ],
+              [
+                136.08931,
+                33.8979
+              ],
+              [
+                136.6793,
+                33.80885
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "21",
+        "FRAME": "2890",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                135.48826,
+                36.28499
+              ],
+              [
+                135.35533,
+                35.69091
+              ],
+              [
+                134.75127,
+                35.7797
+              ],
+              [
+                134.87948,
+                36.37371
+              ],
+              [
+                135.48826,
+                36.28499
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "21",
+        "FRAME": "2900",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                135.37731,
+                35.78995
+              ],
+              [
+                135.24513,
+                35.19577
+              ],
+              [
+                134.64488,
+                35.28462
+              ],
+              [
+                134.77246,
+                35.87872
+              ],
+              [
+                135.37731,
+                35.78995
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "21",
+        "FRAME": "2910",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                135.26699,
+                35.29482
+              ],
+              [
+                135.13552,
+                34.70054
+              ],
+              [
+                134.53898,
+                34.78947
+              ],
+              [
+                134.66596,
+                35.38366
+              ],
+              [
+                135.26699,
+                35.29482
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "21",
+        "FRAME": "2920",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                135.15727,
+                34.79962
+              ],
+              [
+                135.02648,
+                34.20524
+              ],
+              [
+                134.43357,
+                34.29424
+              ],
+              [
+                134.55997,
+                34.88853
+              ],
+              [
+                135.15727,
+                34.79962
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "21",
+        "FRAME": "2930",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                135.04812,
+                34.30433
+              ],
+              [
+                134.91864,
+                33.70975
+              ],
+              [
+                134.32937,
+                33.79881
+              ],
+              [
+                134.45446,
+                34.39331
+              ],
+              [
+                135.04812,
+                34.30433
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "21",
+        "FRAME": "2940",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                134.94017,
+                33.80885
+              ],
+              [
+                134.81068,
+                33.21428
+              ],
+              [
+                134.22486,
+                33.30344
+              ],
+              [
+                134.35018,
+                33.8979
+              ],
+              [
+                134.94017,
+                33.80885
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "22",
+        "FRAME": "2880",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                133.86071,
+                36.77995
+              ],
+              [
+                133.72702,
+                36.18597
+              ],
+              [
+                133.11906,
+                36.27469
+              ],
+              [
+                133.24793,
+                36.86861
+              ],
+              [
+                133.86071,
+                36.77995
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "22",
+        "FRAME": "2890",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                133.74912,
+                36.28499
+              ],
+              [
+                133.6162,
+                35.69091
+              ],
+              [
+                133.01214,
+                35.7797
+              ],
+              [
+                133.14035,
+                36.37371
+              ],
+              [
+                133.74912,
+                36.28499
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "22",
+        "FRAME": "2900",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                133.63818,
+                35.78995
+              ],
+              [
+                133.506,
+                35.19577
+              ],
+              [
+                132.90575,
+                35.28462
+              ],
+              [
+                133.03333,
+                35.87872
+              ],
+              [
+                133.63818,
+                35.78995
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "22",
+        "FRAME": "2910",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                133.52786,
+                35.29482
+              ],
+              [
+                133.39639,
+                34.70054
+              ],
+              [
+                132.79985,
+                34.78947
+              ],
+              [
+                132.92683,
+                35.38366
+              ],
+              [
+                133.52786,
+                35.29482
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "22",
+        "FRAME": "2920",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                133.41814,
+                34.79962
+              ],
+              [
+                133.28735,
+                34.20524
+              ],
+              [
+                132.69444,
+                34.29424
+              ],
+              [
+                132.82084,
+                34.88853
+              ],
+              [
+                133.41814,
+                34.79962
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "22",
+        "FRAME": "2930",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                133.30899,
+                34.30433
+              ],
+              [
+                133.17951,
+                33.70975
+              ],
+              [
+                132.59024,
+                33.79881
+              ],
+              [
+                132.71533,
+                34.39331
+              ],
+              [
+                133.30899,
+                34.30433
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "22",
+        "FRAME": "2940",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                133.20104,
+                33.80885
+              ],
+              [
+                133.07155,
+                33.21428
+              ],
+              [
+                132.48573,
+                33.30344
+              ],
+              [
+                132.61105,
+                33.8979
+              ],
+              [
+                133.20104,
+                33.80885
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "22",
+        "FRAME": "2950",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                133.09297,
+                33.3134
+              ],
+              [
+                132.96409,
+                32.71874
+              ],
+              [
+                132.38165,
+                32.80798
+              ],
+              [
+                132.50645,
+                33.40254
+              ],
+              [
+                133.09297,
+                33.3134
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "22",
+        "FRAME": "2960",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                132.98541,
+                32.81787
+              ],
+              [
+                132.85712,
+                32.22312
+              ],
+              [
+                132.27797,
+                32.31246
+              ],
+              [
+                132.40228,
+                32.9071
+              ],
+              [
+                132.98541,
+                32.81787
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "22",
+        "FRAME": "3090",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                131.62665,
+                26.36932
+              ],
+              [
+                131.5041,
+                25.77352
+              ],
+              [
+                130.96131,
+                25.86445
+              ],
+              [
+                131.08097,
+                26.46008
+              ],
+              [
+                131.62665,
+                26.36932
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "22",
+        "FRAME": "3100",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                131.52439,
+                25.87284
+              ],
+              [
+                131.40216,
+                25.27697
+              ],
+              [
+                130.86169,
+                25.36805
+              ],
+              [
+                130.98112,
+                25.96374
+              ],
+              [
+                131.52439,
+                25.87284
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "22",
+        "FRAME": "3120",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                131.32067,
+                24.87971
+              ],
+              [
+                131.19902,
+                24.2837
+              ],
+              [
+                130.66301,
+                24.37508
+              ],
+              [
+                130.78199,
+                24.97091
+              ],
+              [
+                131.32067,
+                24.87971
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "23",
+        "FRAME": "2860",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                132.34609,
+                37.76971
+              ],
+              [
+                132.21078,
+                37.17594
+              ],
+              [
+                131.59464,
+                37.26457
+              ],
+              [
+                131.72488,
+                37.85829
+              ],
+              [
+                132.34609,
+                37.76971
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "23",
+        "FRAME": "2870",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                132.23315,
+                37.27492
+              ],
+              [
+                132.09934,
+                36.68094
+              ],
+              [
+                131.48739,
+                36.76961
+              ],
+              [
+                131.61615,
+                37.36355
+              ],
+              [
+                132.23315,
+                37.27492
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "23",
+        "FRAME": "2910",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                131.78873,
+                35.29482
+              ],
+              [
+                131.65726,
+                34.70054
+              ],
+              [
+                131.06072,
+                34.78947
+              ],
+              [
+                131.1877,
+                35.38366
+              ],
+              [
+                131.78873,
+                35.29482
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "23",
+        "FRAME": "2920",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                131.67901,
+                34.79962
+              ],
+              [
+                131.54822,
+                34.20524
+              ],
+              [
+                130.95531,
+                34.29424
+              ],
+              [
+                131.08171,
+                34.88853
+              ],
+              [
+                131.67901,
+                34.79962
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "23",
+        "FRAME": "2930",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                131.56985,
+                34.30433
+              ],
+              [
+                131.44038,
+                33.70975
+              ],
+              [
+                130.85111,
+                33.79881
+              ],
+              [
+                130.9762,
+                34.39331
+              ],
+              [
+                131.56985,
+                34.30433
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "23",
+        "FRAME": "2940",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                131.46191,
+                33.80885
+              ],
+              [
+                131.33242,
+                33.21428
+              ],
+              [
+                130.7466,
+                33.30344
+              ],
+              [
+                130.87192,
+                33.8979
+              ],
+              [
+                131.46191,
+                33.80885
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "23",
+        "FRAME": "2950",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                131.35384,
+                33.3134
+              ],
+              [
+                131.22496,
+                32.71874
+              ],
+              [
+                130.64252,
+                32.80798
+              ],
+              [
+                130.76732,
+                33.40254
+              ],
+              [
+                131.35384,
+                33.3134
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "23",
+        "FRAME": "2960",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                131.24628,
+                32.81787
+              ],
+              [
+                131.11799,
+                32.22312
+              ],
+              [
+                130.53884,
+                32.31246
+              ],
+              [
+                130.66315,
+                32.9071
+              ],
+              [
+                131.24628,
+                32.81787
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "23",
+        "FRAME": "2970",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                131.13922,
+                32.32227
+              ],
+              [
+                131.01212,
+                31.72732
+              ],
+              [
+                130.43629,
+                31.81675
+              ],
+              [
+                130.55939,
+                32.4116
+              ],
+              [
+                131.13922,
+                32.32227
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "23",
+        "FRAME": "2980",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                131.03326,
+                31.82649
+              ],
+              [
+                130.90607,
+                31.23156
+              ],
+              [
+                130.33337,
+                31.32109
+              ],
+              [
+                130.45677,
+                31.9159
+              ],
+              [
+                131.03326,
+                31.82649
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "23",
+        "FRAME": "2990",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                130.92712,
+                31.33074
+              ],
+              [
+                130.80045,
+                30.73572
+              ],
+              [
+                130.23081,
+                30.82536
+              ],
+              [
+                130.35378,
+                31.42025
+              ],
+              [
+                130.92712,
+                31.33074
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "23",
+        "FRAME": "3000",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                130.82141,
+                30.83491
+              ],
+              [
+                130.69524,
+                30.23981
+              ],
+              [
+                130.12859,
+                30.32956
+              ],
+              [
+                130.25115,
+                30.92453
+              ],
+              [
+                130.82141,
+                30.83491
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "23",
+        "FRAME": "3010",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                130.71612,
+                30.33901
+              ],
+              [
+                130.59043,
+                29.74383
+              ],
+              [
+                130.02669,
+                29.8337
+              ],
+              [
+                130.14886,
+                30.42875
+              ],
+              [
+                130.71612,
+                30.33901
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "23",
+        "FRAME": "3040",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                130.4026,
+                28.85091
+              ],
+              [
+                130.27823,
+                28.25548
+              ],
+              [
+                129.72281,
+                28.34572
+              ],
+              [
+                129.84391,
+                28.94101
+              ],
+              [
+                130.4026,
+                28.85091
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "23",
+        "FRAME": "3050",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                130.29882,
+                28.35474
+              ],
+              [
+                130.17485,
+                27.75923
+              ],
+              [
+                129.62207,
+                27.84961
+              ],
+              [
+                129.74285,
+                28.44496
+              ],
+              [
+                130.29882,
+                28.35474
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "24",
+        "FRAME": "2920",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                129.93988,
+                34.79962
+              ],
+              [
+                129.80909,
+                34.20524
+              ],
+              [
+                129.21618,
+                34.29424
+              ],
+              [
+                129.34258,
+                34.88853
+              ],
+              [
+                129.93988,
+                34.79962
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "24",
+        "FRAME": "2930",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                129.83072,
+                34.30433
+              ],
+              [
+                129.70125,
+                33.70975
+              ],
+              [
+                129.11198,
+                33.79881
+              ],
+              [
+                129.23707,
+                34.39331
+              ],
+              [
+                129.83072,
+                34.30433
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "24",
+        "FRAME": "2940",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                129.72278,
+                33.80885
+              ],
+              [
+                129.59329,
+                33.21428
+              ],
+              [
+                129.00747,
+                33.30344
+              ],
+              [
+                129.13278,
+                33.8979
+              ],
+              [
+                129.72278,
+                33.80885
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "24",
+        "FRAME": "2950",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                129.61471,
+                33.3134
+              ],
+              [
+                129.48583,
+                32.71874
+              ],
+              [
+                128.90339,
+                32.80798
+              ],
+              [
+                129.02819,
+                33.40254
+              ],
+              [
+                129.61471,
+                33.3134
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "24",
+        "FRAME": "2960",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                129.50715,
+                32.81787
+              ],
+              [
+                129.37886,
+                32.22312
+              ],
+              [
+                128.79971,
+                32.31246
+              ],
+              [
+                128.92402,
+                32.9071
+              ],
+              [
+                129.50715,
+                32.81787
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "24",
+        "FRAME": "3050",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                128.55969,
+                28.35474
+              ],
+              [
+                128.43572,
+                27.75923
+              ],
+              [
+                127.88294,
+                27.84961
+              ],
+              [
+                128.00372,
+                28.44496
+              ],
+              [
+                128.55969,
+                28.35474
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "24",
+        "FRAME": "3060",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                128.45624,
+                27.85851
+              ],
+              [
+                128.33266,
+                27.26292
+              ],
+              [
+                127.78245,
+                27.35344
+              ],
+              [
+                127.90292,
+                27.94886
+              ],
+              [
+                128.45624,
+                27.85851
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "24",
+        "FRAME": "3070",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                128.35312,
+                27.36221
+              ],
+              [
+                128.2299,
+                26.76655
+              ],
+              [
+                127.68219,
+                26.8572
+              ],
+              [
+                127.80238,
+                27.4527
+              ],
+              [
+                128.35312,
+                27.36221
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "24",
+        "FRAME": "3080",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                128.2503,
+                26.86585
+              ],
+              [
+                128.12803,
+                26.27001
+              ],
+              [
+                127.58286,
+                26.36079
+              ],
+              [
+                127.70208,
+                26.95648
+              ],
+              [
+                128.2503,
+                26.86585
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "24",
+        "FRAME": "3090",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                128.14838,
+                26.36932
+              ],
+              [
+                128.02584,
+                25.77352
+              ],
+              [
+                127.48305,
+                25.86445
+              ],
+              [
+                127.60271,
+                26.46008
+              ],
+              [
+                128.14838,
+                26.36932
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "26",
+        "FRAME": "3090",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                124.67012,
+                26.36932
+              ],
+              [
+                124.54758,
+                25.77352
+              ],
+              [
+                124.00479,
+                25.86445
+              ],
+              [
+                124.12445,
+                26.46008
+              ],
+              [
+                124.67012,
+                26.36932
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "26",
+        "FRAME": "3120",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                124.36415,
+                24.87971
+              ],
+              [
+                124.2425,
+                24.2837
+              ],
+              [
+                123.70648,
+                24.37508
+              ],
+              [
+                123.82547,
+                24.97091
+              ],
+              [
+                124.36415,
+                24.87971
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U7RD",
+        "PATH": "26",
+        "FRAME": "3130",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.2
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                124.26265,
+                24.38305
+              ],
+              [
+                124.14127,
+                23.78698
+              ],
+              [
+                123.60739,
+                23.87852
+              ],
+              [
+                123.72618,
+                24.47441
+              ],
+              [
+                124.26265,
+                24.38305
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
