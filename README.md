@@ -4,7 +4,9 @@ https://yumorishita.github.io/gsimaps/
 
 ## Added layers
 
-- in prep
+- SAR Layers
+  - S1 lsmap Japan
+  - S1 Tracks Des Japan
 
 # Original README below
 
