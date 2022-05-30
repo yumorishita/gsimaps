@@ -5,7 +5,7 @@ https://yumorishita.github.io/gsimaps/
 ## Added layers
 
 - SAR Layers
-  - ALOS-2 Frame Map Japan
+  - ALOS-2 Frame Map
   - Sentinel-1 lsmap Japan
   - Sentinel-1 Tracks Des Japan
 
