@@ -125,9 +125,7 @@
               "maxNativeZoom": 4,
               "legendUrl": "",
               "html": "Data source: https://www.eorc.jaxa.jp/ALOS/en/alos-2/obs/pal2_obs_guide_e.htm"
-            },
-
-
+            }
           ]
         },
         {
