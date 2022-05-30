@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "U2-7_L_Asc", "PATH": 188, "FRAME": 7190, "_color": "#0000ff", "_opacity": 0.5, "_weight": 3, "_fillColor": "#0000ff", "_fillOpacity": 0.2}, "geometry": {"type": "Polygon", "coordinates": [[[5.7428, -1.50148], [5.2553, -1.60293], [5.13294, -1.00599], [5.62026, -0.90422], [5.7428, -1.50148]]]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "F2-5_R_Des", "PATH": 41, "FRAME": 3500, "_color": "#ff0000", "_opacity": 0.5, "_weight": 3, "_fillColor": "#ff0000", "_fillOpacity": 0.2}, "geometry": {"type": "Polygon", "coordinates": [[[95.13614, 5.8475], [95.0147, 5.2499], [94.39266, 5.37689], [94.51347, 5.97417], [95.13614, 5.8475]]]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "U3-11_L_Des", "PATH": 54, "FRAME": 3460, "_color": "#ff0000", "_opacity": 0.5, "_weight": 3, "_fillColor": "#ff0000", "_fillOpacity": 0.2}, "geometry": {"type": "Polygon", "coordinates": [[[80.84412, 6.1672], [81.28789, 6.0696], [81.15705, 5.47503], [80.71369, 5.57214], [80.84412, 6.1672]]]}}]}
