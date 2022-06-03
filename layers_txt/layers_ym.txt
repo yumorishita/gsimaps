@@ -42,18 +42,45 @@
               "html": "ZL>=6<br>Data source: https://www.eorc.jaxa.jp/ALOS/en/alos-2/obs/pal2_obs_guide_e.htm"
             },
             {
-              "type": "Layer",
-              "id": "geojson_A2_U2_R_Asc_odd_tile",
+              "type": "LayerGroup",
               "title": "Frame ALOS-2 U2 R Asc Odd Path",
               "iconUrl": "",
-              "url": "https://yumorishita.github.io/gsimaps/geojson/A2_U2_R_Asc_odd_tile/{z}/{x}/{y}.geojson",
-              "subdomains": "",
-              "attribution": "",
-              "errorTileUrl": "",
-              "cocotile": false,
-              "maxNativeZoom": 6,
-              "legendUrl": "",
-              "html": "ZL>=6<br>Data source: https://www.eorc.jaxa.jp/ALOS/en/alos-2/obs/pal2_obs_guide_e.htm"
+              "toggleall": false,
+              "id": "geojson_A2_U2_R_Asc_odd_tile_group",
+              "entries": [
+                {
+                  "type": "Layer",
+                  "id": "geojson_A2_U2_R_Asc_odd_tile",
+                  "title": "Frame ALOS-2 U2 R Asc Odd Path",
+                  "iconUrl": "",
+                  "url": "https://yumorishita.github.io/gsimaps/geojson/A2_U2_R_Asc_odd_tile/{z}/{x}/{y}.geojson",
+                  "subdomains": "",
+                  "attribution": "",
+                  "errorTileUrl": "",
+                  "cocotile": false,
+                  "minZoom": 6,
+                  "maxZoom": 18,
+                  "maxNativeZoom": 6,
+                  "legendUrl": "",
+                  "html": "Data source: https://www.eorc.jaxa.jp/ALOS/en/alos-2/obs/pal2_obs_guide_e.htm"
+                },
+                {
+                  "type": "Layer",
+                  "id": "geojson_A2_U2_R_Asc_odd_tile2",
+                  "title": "Frame ALOS-2 U2 R Asc Odd Path",
+                  "iconUrl": "",
+                  "url": "https://yumorishita.github.io/gsimaps/geojson/A2_U2_R_Asc_odd_tile/{z}/{x}/{y}.geojson",
+                  "subdomains": "",
+                  "attribution": "",
+                  "errorTileUrl": "",
+                  "cocotile": false,
+                  "minZoom": 1,
+                  "maxZoom": 5,
+                  "maxNativeZoom": 1,
+                  "legendUrl": "",
+                  "html": "Data source: https://www.eorc.jaxa.jp/ALOS/en/alos-2/obs/pal2_obs_guide_e.htm"
+                }
+              ]
             },
             {
               "type": "Layer",
