@@ -47,6 +47,7 @@
               "iconUrl": "",
               "toggleall": false,
               "id": "geojson_A2_U2_R_Asc_odd_tile_group",
+              "html": "Data source: https://www.eorc.jaxa.jp/ALOS/en/alos-2/obs/pal2_obs_guide_e.htm",
               "entries": [
                 {
                   "type": "Layer",
@@ -75,10 +76,10 @@
                   "errorTileUrl": "",
                   "cocotile": false,
                   "minZoom": 1,
-                  "maxZoom": 5,
+                  "maxZoom": 6,
                   "maxNativeZoom": 1,
                   "legendUrl": "",
-                  "html": "Data source: https://www.eorc.jaxa.jp/ALOS/en/alos-2/obs/pal2_obs_guide_e.htm"
+                  "html": ""
                 }
               ]
             },
