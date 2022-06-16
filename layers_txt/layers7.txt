@@ -863,7 +863,7 @@
               "cocotile": true,
               "maxZoom": 7,
               "legendUrl": "https://maps.gsi.go.jp/legend/Legend_GLCNMO.pdf",
-              "html": "<div class='layer_text'><p>世界の土地が何に覆われているかを表した地図です。</p></div><div class=\"gsi_layerinfo_copy\">(c)国土地理院、千葉大学、地球地図国際運営委員会、協働機関</div>"
+              "html": "<div class='layer_text'><p>世界の土地が何に覆われているかを表した地図です。</p></div><div class=\"gsi_layerinfo_copy\">(c)国土地理院・千葉大学・協働機関</div>"
             },
             {
               "type": "Layer",
@@ -873,7 +873,7 @@
               "cocotile": true,
               "maxZoom": 7,
               "legendUrl": "https://maps.gsi.go.jp/legend/Legend_PTC.pdf",
-              "html": "<div class='layer_text'><p>世界の地表面に対する樹木の比率を表した地図です。</p></div><div class=\"gsi_layerinfo_copy\">(c)国土地理院、千葉大学、地球地図国際運営委員会、協働機関</div>"
+              "html": "<div class='layer_text'><p>世界の地表面に対する樹木の比率を表した地図です。</p></div><div class=\"gsi_layerinfo_copy\">(c)国土地理院・千葉大学・協働機関</div>"
             }
           ]
         },
@@ -1141,6 +1141,15 @@
                   "entries": [
                     {
                       "type": "Layer",
+                      "id": "jin202205",
+                      "title": "5月更新",
+                      "iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/084.png",
+                      "url": "https://maps.gsi.go.jp/xyz/jin202205/{z}/{x}/{y}.geojson",
+                      "maxNativeZoom": 2,
+                      "cocotile": false
+                    },
+                    {
+                      "type": "Layer",
                       "id": "jin202204",
                       "title": "4月更新",
                       "iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/083.png",
@@ -1184,6 +1193,13 @@
                   "entries": [
                     {
                       "type": "Layer",
+                      "id": "men202205",
+                      "title": "5月更新",
+                      "url": "https://maps.gsi.go.jp/xyz/men202205/{z}/{x}/{y}.geojson",
+                      "maxNativeZoom": 2,
+                      "cocotile": false
+                    },                    {
+                      "type": "Layer",
                       "id": "men202204",
                       "title": "4月更新",
                       "url": "https://maps.gsi.go.jp/xyz/men202204/{z}/{x}/{y}.geojson",
@@ -1221,6 +1237,14 @@
                   "title": "2022年登山道更新情報",
                   "toggleall": false,
                   "entries": [
+                    {
+                      "type": "Layer",
+                      "id": "toz202205",
+                      "title": "5月更新",
+                      "url": "https://maps.gsi.go.jp/xyz/toz202205/{z}/{x}/{y}.geojson",
+                      "maxNativeZoom": 2,
+                      "cocotile": false
+                    },
                     {
                       "type": "Layer",
                       "id": "toz202204",
