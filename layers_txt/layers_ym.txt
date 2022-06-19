@@ -630,7 +630,7 @@
               "maxZoom": 18,
               "maxNativeZoom": 6,
               "legendUrl": "",
-              "html": "Data source: https://sar-mpc.eu/test-data-sets/\nmod(path,5)=1"
+              "html": "Data source: https://sar-mpc.eu/test-data-sets/<br>mod(path,5)=1"
             },
             {
               "type": "Layer",
@@ -646,7 +646,7 @@
               "maxZoom": 18,
               "maxNativeZoom": 6,
               "legendUrl": "",
-              "html": "Data source: https://sar-mpc.eu/test-data-sets/\nmod(path,5)=2"
+              "html": "Data source: https://sar-mpc.eu/test-data-sets/<br>mod(path,5)=2"
             },
             {
               "type": "Layer",
@@ -662,7 +662,7 @@
               "maxZoom": 18,
               "maxNativeZoom": 6,
               "legendUrl": "",
-              "html": "Data source: https://sar-mpc.eu/test-data-sets/\nmod(path,5)=3"
+              "html": "Data source: https://sar-mpc.eu/test-data-sets/<br>mod(path,5)=3"
             },
             {
               "type": "Layer",
@@ -678,7 +678,7 @@
               "maxZoom": 18,
               "maxNativeZoom": 6,
               "legendUrl": "",
-              "html": "Data source: https://sar-mpc.eu/test-data-sets/\nmod(path,5)=4"
+              "html": "Data source: https://sar-mpc.eu/test-data-sets/<br>mod(path,5)=4"
             },
             {
               "type": "Layer",
@@ -694,7 +694,7 @@
               "maxZoom": 18,
               "maxNativeZoom": 6,
               "legendUrl": "",
-              "html": "Data source: https://sar-mpc.eu/test-data-sets/\nmod(path,5)=0"
+              "html": "Data source: https://sar-mpc.eu/test-data-sets/<br>mod(path,5)=0"
             },
             {
               "type": "Layer",
@@ -710,7 +710,7 @@
               "maxZoom": 18,
               "maxNativeZoom": 6,
               "legendUrl": "",
-              "html": "Data source: https://sar-mpc.eu/test-data-sets/\nmod(path,5)=1"
+              "html": "Data source: https://sar-mpc.eu/test-data-sets/<br>mod(path,5)=1"
             },
             {
               "type": "Layer",
@@ -726,7 +726,7 @@
               "maxZoom": 18,
               "maxNativeZoom": 6,
               "legendUrl": "",
-              "html": "Data source: https://sar-mpc.eu/test-data-sets/\nmod(path,5)=2"
+              "html": "Data source: https://sar-mpc.eu/test-data-sets/<br>mod(path,5)=2"
             },
             {
               "type": "Layer",
@@ -742,7 +742,7 @@
               "maxZoom": 18,
               "maxNativeZoom": 6,
               "legendUrl": "",
-              "html": "Data source: https://sar-mpc.eu/test-data-sets/\nmod(path,5)=3"
+              "html": "Data source: https://sar-mpc.eu/test-data-sets/<br>mod(path,5)=3"
             },
             {
               "type": "Layer",
@@ -758,7 +758,7 @@
               "maxZoom": 18,
               "maxNativeZoom": 6,
               "legendUrl": "",
-              "html": "Data source: https://sar-mpc.eu/test-data-sets/\nmod(path,5)=4"
+              "html": "Data source: https://sar-mpc.eu/test-data-sets/<br>mod(path,5)=4"
             },
             {
               "type": "Layer",
@@ -774,7 +774,7 @@
               "maxZoom": 18,
               "maxNativeZoom": 6,
               "legendUrl": "",
-              "html": "Data source: https://sar-mpc.eu/test-data-sets/\nmod(path,5)=0"
+              "html": "Data source: https://sar-mpc.eu/test-data-sets/<br>mod(path,5)=0"
             }
           ]
         },
@@ -799,7 +799,7 @@
               "maxZoom": 18,
               "maxNativeZoom": 13,
               "legendUrl": "",
-              "html": "Red: Layover, Green: Shadow, Yellow: Layover+Shadow\nKellndorfer, J., Cartus, O., Lavalle, M. et al. Global seasonal Sentinel-1 interferometric coherence and backscatter data set. Sci Data 9, 73 (2022). https://doi.org/10.1038/s41597-022-01189-6"
+              "html": "Red: Layover, Green: Shadow, Yellow: Layover+Shadow<br>Kellndorfer, J., Cartus, O., Lavalle, M. et al. Global seasonal Sentinel-1 interferometric coherence and backscatter data set. Sci Data 9, 73 (2022). https://doi.org/10.1038/s41597-022-01189-6"
             },
             {
               "type": "Layer",
@@ -815,7 +815,7 @@
               "maxZoom": 18,
               "maxNativeZoom": 13,
               "legendUrl": "",
-              "html": "Red: Layover, Green: Shadow, Yellow: Layover+Shadow\nKellndorfer, J., Cartus, O., Lavalle, M. et al. Global seasonal Sentinel-1 interferometric coherence and backscatter data set. Sci Data 9, 73 (2022). https://doi.org/10.1038/s41597-022-01189-6"
+              "html": "Red: Layover, Green: Shadow, Yellow: Layover+Shadow<br>Kellndorfer, J., Cartus, O., Lavalle, M. et al. Global seasonal Sentinel-1 interferometric coherence and backscatter data set. Sci Data 9, 73 (2022). https://doi.org/10.1038/s41597-022-01189-6"
             },
             {
               "type": "Layer",
@@ -831,7 +831,7 @@
               "maxZoom": 18,
               "maxNativeZoom": 13,
               "legendUrl": "",
-              "html": "Red: Layover, Green: Shadow, Yellow: Layover+Shadow\nKellndorfer, J., Cartus, O., Lavalle, M. et al. Global seasonal Sentinel-1 interferometric coherence and backscatter data set. Sci Data 9, 73 (2022). https://doi.org/10.1038/s41597-022-01189-6"
+              "html": "Red: Layover, Green: Shadow, Yellow: Layover+Shadow<br>Kellndorfer, J., Cartus, O., Lavalle, M. et al. Global seasonal Sentinel-1 interferometric coherence and backscatter data set. Sci Data 9, 73 (2022). https://doi.org/10.1038/s41597-022-01189-6"
             },
             {
               "type": "Layer",
@@ -847,7 +847,7 @@
               "maxZoom": 18,
               "maxNativeZoom": 13,
               "legendUrl": "",
-              "html": "Red: Layover, Green: Shadow, Yellow: Layover+Shadow\nKellndorfer, J., Cartus, O., Lavalle, M. et al. Global seasonal Sentinel-1 interferometric coherence and backscatter data set. Sci Data 9, 73 (2022). https://doi.org/10.1038/s41597-022-01189-6"
+              "html": "Red: Layover, Green: Shadow, Yellow: Layover+Shadow<br>Kellndorfer, J., Cartus, O., Lavalle, M. et al. Global seasonal Sentinel-1 interferometric coherence and backscatter data set. Sci Data 9, 73 (2022). https://doi.org/10.1038/s41597-022-01189-6"
             },
             {
               "type": "Layer",
@@ -863,7 +863,7 @@
               "maxZoom": 18,
               "maxNativeZoom": 13,
               "legendUrl": "",
-              "html": "Red: Layover, Green: Shadow, Yellow: Layover+Shadow\nKellndorfer, J., Cartus, O., Lavalle, M. et al. Global seasonal Sentinel-1 interferometric coherence and backscatter data set. Sci Data 9, 73 (2022). https://doi.org/10.1038/s41597-022-01189-6"
+              "html": "Red: Layover, Green: Shadow, Yellow: Layover+Shadow<br>Kellndorfer, J., Cartus, O., Lavalle, M. et al. Global seasonal Sentinel-1 interferometric coherence and backscatter data set. Sci Data 9, 73 (2022). https://doi.org/10.1038/s41597-022-01189-6"
             },
             {
               "type": "Layer",
@@ -879,7 +879,7 @@
               "maxZoom": 18,
               "maxNativeZoom": 13,
               "legendUrl": "",
-              "html": "Red: Layover, Green: Shadow, Yellow: Layover+Shadow\nKellndorfer, J., Cartus, O., Lavalle, M. et al. Global seasonal Sentinel-1 interferometric coherence and backscatter data set. Sci Data 9, 73 (2022). https://doi.org/10.1038/s41597-022-01189-6"
+              "html": "Red: Layover, Green: Shadow, Yellow: Layover+Shadow<br>Kellndorfer, J., Cartus, O., Lavalle, M. et al. Global seasonal Sentinel-1 interferometric coherence and backscatter data set. Sci Data 9, 73 (2022). https://doi.org/10.1038/s41597-022-01189-6"
             },
             {
               "type": "Layer",
@@ -895,7 +895,7 @@
               "maxZoom": 18,
               "maxNativeZoom": 13,
               "legendUrl": "",
-              "html": "Red: Layover, Green: Shadow, Yellow: Layover+Shadow\nKellndorfer, J., Cartus, O., Lavalle, M. et al. Global seasonal Sentinel-1 interferometric coherence and backscatter data set. Sci Data 9, 73 (2022). https://doi.org/10.1038/s41597-022-01189-6"
+              "html": "Red: Layover, Green: Shadow, Yellow: Layover+Shadow<br>Kellndorfer, J., Cartus, O., Lavalle, M. et al. Global seasonal Sentinel-1 interferometric coherence and backscatter data set. Sci Data 9, 73 (2022). https://doi.org/10.1038/s41597-022-01189-6"
             },
             {
               "type": "Layer",
@@ -911,7 +911,7 @@
               "maxZoom": 18,
               "maxNativeZoom": 13,
               "legendUrl": "",
-              "html": "Red: Layover, Green: Shadow, Yellow: Layover+Shadow\nKellndorfer, J., Cartus, O., Lavalle, M. et al. Global seasonal Sentinel-1 interferometric coherence and backscatter data set. Sci Data 9, 73 (2022). https://doi.org/10.1038/s41597-022-01189-6"
+              "html": "Red: Layover, Green: Shadow, Yellow: Layover+Shadow<br>Kellndorfer, J., Cartus, O., Lavalle, M. et al. Global seasonal Sentinel-1 interferometric coherence and backscatter data set. Sci Data 9, 73 (2022). https://doi.org/10.1038/s41597-022-01189-6"
             },
             {
               "type": "Layer",
@@ -927,7 +927,7 @@
               "maxZoom": 18,
               "maxNativeZoom": 13,
               "legendUrl": "",
-              "html": "Red: Layover, Green: Shadow, Yellow: Layover+Shadow\nKellndorfer, J., Cartus, O., Lavalle, M. et al. Global seasonal Sentinel-1 interferometric coherence and backscatter data set. Sci Data 9, 73 (2022). https://doi.org/10.1038/s41597-022-01189-6"
+              "html": "Red: Layover, Green: Shadow, Yellow: Layover+Shadow<br>Kellndorfer, J., Cartus, O., Lavalle, M. et al. Global seasonal Sentinel-1 interferometric coherence and backscatter data set. Sci Data 9, 73 (2022). https://doi.org/10.1038/s41597-022-01189-6"
             }
           ]
         }
