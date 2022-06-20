@@ -5,9 +5,9 @@ https://yumorishita.github.io/gsimaps/
 ## Added layers
 
 - SAR Layers
-  - ALOS-2 Frame Map
-  - Sentinel-1 lsmap Japan
-  - Sentinel-1 Tracks Des Japan
+  - ALOS-2 Frame Map ([source](https://www.eorc.jaxa.jp/ALOS/en/alos-2/obs/pal2_obs_guide_e.htm))
+  - Sentinel-1 Burst ID Map ([source](https://sar-mpc.eu/test-data-sets/))
+  - Sentinel-1 lsmap Japan ([source](https://doi.org/10.1038/s41597-022-01189-6))
 
 # Original README below
 
