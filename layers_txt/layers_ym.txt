@@ -22,6 +22,12 @@
       "entries": [
         {
           "type": "LayerGroup",
+          "title": "ALOS Frame Map",
+          "toggleall": false,
+          "src": "./layers_ym_alosframemap.txt"
+        },
+        {
+          "type": "LayerGroup",
           "title": "ALOS-2 Frame Map",
           "toggleall": false,
           "src": "./layers_ym_alos2framemap.txt"

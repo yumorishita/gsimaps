@@ -1,0 +1,168 @@
+{
+  "layers": [
+    {
+      "type": "LayerGroup",
+      "title": "Frame ALOS Asc 34.3",
+      "iconUrl": "",
+      "toggleall": false,
+      "id": "geojson_ALOSframeA343_group",
+      "entries": [
+        {
+          "type": "Layer",
+          "id": "geojson_ALOSframeA343",
+          "title": "Frame ALOS Asc 34.3",
+          "iconUrl": "",
+          "url": "https://yumorishita.github.io/ALOSframemap_geojsontile/ALOSframeA343/{z}/{x}/{y}.geojson",
+          "subdomains": "",
+          "attribution": "",
+          "errorTileUrl": "",
+          "cocotile": false,
+          "minZoom": 6,
+          "maxZoom": 18,
+          "maxNativeZoom": 6,
+          "legendUrl": "",
+          "html": "Data: https://gsrt.digiarc.aist.go.jp/insarbrowser/index.html"
+        },
+        {
+          "type": "Layer",
+          "id": "geojson_ALOSframeA3432",
+          "title": "Frame ALOS Asc 34.3",
+          "iconUrl": "",
+          "url": "https://yumorishita.github.io/ALOSframemap_geojsontile/ALOSframeA343/{z}/{x}/{y}.geojson",
+          "subdomains": "",
+          "attribution": "",
+          "errorTileUrl": "",
+          "cocotile": false,
+          "minZoom": 1,
+          "maxZoom": 5,
+          "maxNativeZoom": 1,
+          "legendUrl": "",
+          "html": ""
+        }
+      ]
+    },
+    {
+      "type": "LayerGroup",
+      "title": "Frame ALOS Asc others",
+      "iconUrl": "",
+      "toggleall": false,
+      "id": "geojson_ALOSframeAothers_group",
+      "entries": [
+        {
+          "type": "Layer",
+          "id": "geojson_ALOSframeAothers",
+          "title": "Frame ALOS Asc others",
+          "iconUrl": "",
+          "url": "https://yumorishita.github.io/ALOSframemap_geojsontile/ALOSframeAothers/{z}/{x}/{y}.geojson",
+          "subdomains": "",
+          "attribution": "",
+          "errorTileUrl": "",
+          "cocotile": false,
+          "minZoom": 6,
+          "maxZoom": 18,
+          "maxNativeZoom": 6,
+          "legendUrl": "",
+          "html": "Data: https://gsrt.digiarc.aist.go.jp/insarbrowser/index.html"
+        },
+        {
+          "type": "Layer",
+          "id": "geojson_ALOSframeAothers2",
+          "title": "Frame ALOS Asc others",
+          "iconUrl": "",
+          "url": "https://yumorishita.github.io/ALOSframemap_geojsontile/ALOSframeAothers/{z}/{x}/{y}.geojson",
+          "subdomains": "",
+          "attribution": "",
+          "errorTileUrl": "",
+          "cocotile": false,
+          "minZoom": 1,
+          "maxZoom": 5,
+          "maxNativeZoom": 1,
+          "legendUrl": "",
+          "html": ""
+        }
+      ]
+    },
+    {
+      "type": "LayerGroup",
+      "title": "Frame ALOS Des 34.3",
+      "iconUrl": "",
+      "toggleall": false,
+      "id": "geojson_ALOSframeD343_group",
+      "entries": [
+        {
+          "type": "Layer",
+          "id": "geojson_ALOSframeD343",
+          "title": "Frame ALOS Des 34.3",
+          "iconUrl": "",
+          "url": "https://yumorishita.github.io/ALOSframemap_geojsontile/ALOSframeD343/{z}/{x}/{y}.geojson",
+          "subdomains": "",
+          "attribution": "",
+          "errorTileUrl": "",
+          "cocotile": false,
+          "minZoom": 6,
+          "maxZoom": 18,
+          "maxNativeZoom": 6,
+          "legendUrl": "",
+          "html": "Data: https://gsrt.digiarc.aist.go.jp/insarbrowser/index.html"
+        },
+        {
+          "type": "Layer",
+          "id": "geojson_ALOSframeD3432",
+          "title": "Frame ALOS Des 34.3",
+          "iconUrl": "",
+          "url": "https://yumorishita.github.io/ALOSframemap_geojsontile/ALOSframeD343/{z}/{x}/{y}.geojson",
+          "subdomains": "",
+          "attribution": "",
+          "errorTileUrl": "",
+          "cocotile": false,
+          "minZoom": 1,
+          "maxZoom": 5,
+          "maxNativeZoom": 1,
+          "legendUrl": "",
+          "html": ""
+        }
+      ]
+    },
+    {
+      "type": "LayerGroup",
+      "title": "Frame ALOS Des others",
+      "iconUrl": "",
+      "toggleall": false,
+      "id": "geojson_ALOSframeDothers_group",
+      "entries": [
+        {
+          "type": "Layer",
+          "id": "geojson_ALOSframeDothers",
+          "title": "Frame ALOS Des others",
+          "iconUrl": "",
+          "url": "https://yumorishita.github.io/ALOSframemap_geojsontile/ALOSframeDothers/{z}/{x}/{y}.geojson",
+          "subdomains": "",
+          "attribution": "",
+          "errorTileUrl": "",
+          "cocotile": false,
+          "minZoom": 6,
+          "maxZoom": 18,
+          "maxNativeZoom": 6,
+          "legendUrl": "",
+          "html": "Data: https://gsrt.digiarc.aist.go.jp/insarbrowser/index.html"
+        },
+        {
+          "type": "Layer",
+          "id": "geojson_ALOSframeDothers2",
+          "title": "Frame ALOS Des others",
+          "iconUrl": "",
+          "url": "https://yumorishita.github.io/ALOSframemap_geojsontile/ALOSframeDothers/{z}/{x}/{y}.geojson",
+          "subdomains": "",
+          "attribution": "",
+          "errorTileUrl": "",
+          "cocotile": false,
+          "minZoom": 1,
+          "maxZoom": 5,
+          "maxNativeZoom": 1,
+          "legendUrl": "",
+          "html": ""
+        }
+      ]
+    }
+ ]
+}
