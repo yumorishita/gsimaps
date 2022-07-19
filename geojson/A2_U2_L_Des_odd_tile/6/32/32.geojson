@@ -1,1 +1,0 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "U2-6_L_Des", "PATH": 95, "FRAME": 3620, "_color": "#ff0000", "_opacity": 0.5, "_weight": 3, "_fillColor": "#ff0000", "_fillOpacity": 0.2}, "geometry": {"type": "Polygon", "coordinates": [[[5.61134, -1.30543], [6.09837, -1.407], [5.97615, -2.00427], [5.48891, -1.90297], [5.61134, -1.30543]]]}}]}
