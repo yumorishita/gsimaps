@@ -1,0 +1,427 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "S1burstmap_geojsontile_info",
+      "title": "Info",
+      "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/050.png",
+      "url": "dummy_url/{z}/{x}/{y}",
+      "subdomains": "",
+      "attribution": "",
+      "errorTileUrl": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "Data source: https://sar-mpc.eu/test-data-sets/<br>S1 Burst Map [Asc|Des] 1: mod(path,5)=1<br>S1 Burst Map [Asc|Des] 2: mod(path,5)=2<br>S1 Burst Map [Asc|Des] 3: mod(path,5)=3<br>S1 Burst Map [Asc|Des] 4: mod(path,5)=4<br>S1 Burst Map [Asc|Des] 5: mod(path,5)=0"
+    },
+    {
+      "type": "LayerGroup",
+      "title": "S1 Burst Map Asc 1",
+      "iconUrl": "",
+      "toggleall": false,
+      "id": "S1burstmap_geojsontile_S1burstA1_group",
+      "entries": [
+        {
+          "type": "Layer",
+          "id": "S1burstmap_geojsontile_S1burstA1",
+          "title": "S1 Burst Map Asc 1",
+          "iconUrl": "",
+          "url": "https://yumorishita.github.io/S1burstmap_geojsontile/S1burstA1/{z}/{x}/{y}.geojson",
+          "subdomains": "",
+          "attribution": "",
+          "errorTileUrl": "",
+          "cocotile": false,
+          "minZoom": 6,
+          "maxZoom": 18,
+          "maxNativeZoom": 6,
+          "legendUrl": "",
+          "html": "Data source: https://sar-mpc.eu/test-data-sets/<br>mod(path,5)=1"
+        },
+        {
+          "type": "Layer",
+          "id": "S1burstmap_geojsontile_S1burstA12",
+          "title": "S1 Burst Map Asc 1",
+          "iconUrl": "",
+          "url": "https://yumorishita.github.io/S1burstmap_geojsontile/S1burstA1/{z}/{x}/{y}.geojson",
+          "subdomains": "",
+          "attribution": "",
+          "errorTileUrl": "",
+          "cocotile": false,
+          "minZoom": 1,
+          "maxZoom": 5,
+          "maxNativeZoom": 1,
+          "legendUrl": "",
+          "html": "Data source: https://sar-mpc.eu/test-data-sets/<br>mod(path,5)=1"
+        }
+      ]
+    },
+    {
+      "type": "LayerGroup",
+      "title": "S1 Burst Map Asc 2",
+      "iconUrl": "",
+      "toggleall": false,
+      "id": "S1burstmap_geojsontile_S1burstA2_group",
+      "entries": [
+        {
+          "type": "Layer",
+          "id": "S1burstmap_geojsontile_S1burstA2",
+          "title": "S1 Burst Map Asc 2",
+          "iconUrl": "",
+          "url": "https://yumorishita.github.io/S1burstmap_geojsontile/S1burstA2/{z}/{x}/{y}.geojson",
+          "subdomains": "",
+          "attribution": "",
+          "errorTileUrl": "",
+          "cocotile": false,
+          "minZoom": 6,
+          "maxZoom": 18,
+          "maxNativeZoom": 6,
+          "legendUrl": "",
+          "html": "Data source: https://sar-mpc.eu/test-data-sets/<br>mod(path,5)=2"
+        },
+        {
+          "type": "Layer",
+          "id": "S1burstmap_geojsontile_S1burstA22",
+          "title": "S1 Burst Map Asc 2",
+          "iconUrl": "",
+          "url": "https://yumorishita.github.io/S1burstmap_geojsontile/S1burstA2/{z}/{x}/{y}.geojson",
+          "subdomains": "",
+          "attribution": "",
+          "errorTileUrl": "",
+          "cocotile": false,
+          "minZoom": 1,
+          "maxZoom": 5,
+          "maxNativeZoom": 1,
+          "legendUrl": "",
+          "html": "Data source: https://sar-mpc.eu/test-data-sets/<br>mod(path,5)=2"
+        }
+      ]
+    },
+    {
+      "type": "LayerGroup",
+      "title": "S1 Burst Map Asc 3",
+      "iconUrl": "",
+      "toggleall": false,
+      "id": "S1burstmap_geojsontile_S1burstA3_group",
+      "entries": [
+        {
+          "type": "Layer",
+          "id": "S1burstmap_geojsontile_S1burstA3",
+          "title": "S1 Burst Map Asc 3",
+          "iconUrl": "",
+          "url": "https://yumorishita.github.io/S1burstmap_geojsontile/S1burstA3/{z}/{x}/{y}.geojson",
+          "subdomains": "",
+          "attribution": "",
+          "errorTileUrl": "",
+          "cocotile": false,
+          "minZoom": 6,
+          "maxZoom": 18,
+          "maxNativeZoom": 6,
+          "legendUrl": "",
+          "html": "Data source: https://sar-mpc.eu/test-data-sets/<br>mod(path,5)=3"
+        },
+        {
+          "type": "Layer",
+          "id": "S1burstmap_geojsontile_S1burstA32",
+          "title": "S1 Burst Map Asc 3",
+          "iconUrl": "",
+          "url": "https://yumorishita.github.io/S1burstmap_geojsontile/S1burstA3/{z}/{x}/{y}.geojson",
+          "subdomains": "",
+          "attribution": "",
+          "errorTileUrl": "",
+          "cocotile": false,
+          "minZoom": 1,
+          "maxZoom": 5,
+          "maxNativeZoom": 1,
+          "legendUrl": "",
+          "html": "Data source: https://sar-mpc.eu/test-data-sets/<br>mod(path,5)=3"
+        }
+      ]
+    },
+    {
+      "type": "LayerGroup",
+      "title": "S1 Burst Map Asc 4",
+      "iconUrl": "",
+      "toggleall": false,
+      "id": "S1burstmap_geojsontile_S1burstA4_group",
+      "entries": [
+        {
+          "type": "Layer",
+          "id": "S1burstmap_geojsontile_S1burstA4",
+          "title": "S1 Burst Map Asc 4",
+          "iconUrl": "",
+          "url": "https://yumorishita.github.io/S1burstmap_geojsontile/S1burstA4/{z}/{x}/{y}.geojson",
+          "subdomains": "",
+          "attribution": "",
+          "errorTileUrl": "",
+          "cocotile": false,
+          "minZoom": 6,
+          "maxZoom": 18,
+          "maxNativeZoom": 6,
+          "legendUrl": "",
+          "html": "Data source: https://sar-mpc.eu/test-data-sets/<br>mod(path,5)=4"
+        },
+        {
+          "type": "Layer",
+          "id": "S1burstmap_geojsontile_S1burstA42",
+          "title": "S1 Burst Map Asc 4",
+          "iconUrl": "",
+          "url": "https://yumorishita.github.io/S1burstmap_geojsontile/S1burstA4/{z}/{x}/{y}.geojson",
+          "subdomains": "",
+          "attribution": "",
+          "errorTileUrl": "",
+          "cocotile": false,
+          "minZoom": 1,
+          "maxZoom": 5,
+          "maxNativeZoom": 1,
+          "legendUrl": "",
+          "html": "Data source: https://sar-mpc.eu/test-data-sets/<br>mod(path,5)=4"
+        }
+      ]
+    },
+    {
+      "type": "LayerGroup",
+      "title": "S1 Burst Map Asc 5",
+      "iconUrl": "",
+      "toggleall": false,
+      "id": "S1burstmap_geojsontile_S1burstA5_group",
+      "entries": [
+        {
+          "type": "Layer",
+          "id": "S1burstmap_geojsontile_S1burstA5",
+          "title": "S1 Burst Map Asc 5",
+          "iconUrl": "",
+          "url": "https://yumorishita.github.io/S1burstmap_geojsontile/S1burstA5/{z}/{x}/{y}.geojson",
+          "subdomains": "",
+          "attribution": "",
+          "errorTileUrl": "",
+          "cocotile": false,
+          "minZoom": 6,
+          "maxZoom": 18,
+          "maxNativeZoom": 6,
+          "legendUrl": "",
+          "html": "Data source: https://sar-mpc.eu/test-data-sets/<br>mod(path,5)=0"
+        },
+        {
+          "type": "Layer",
+          "id": "S1burstmap_geojsontile_S1burstA52",
+          "title": "S1 Burst Map Asc 5",
+          "iconUrl": "",
+          "url": "https://yumorishita.github.io/S1burstmap_geojsontile/S1burstA5/{z}/{x}/{y}.geojson",
+          "subdomains": "",
+          "attribution": "",
+          "errorTileUrl": "",
+          "cocotile": false,
+          "minZoom": 1,
+          "maxZoom": 5,
+          "maxNativeZoom": 1,
+          "legendUrl": "",
+          "html": "Data source: https://sar-mpc.eu/test-data-sets/<br>mod(path,5)=0"
+        }
+      ]
+    },
+    {
+      "type": "LayerGroup",
+      "title": "S1 Burst Map Des 1",
+      "iconUrl": "",
+      "toggleall": false,
+      "id": "S1burstmap_geojsontile_S1burstD1_group",
+      "entries": [
+        {
+          "type": "Layer",
+          "id": "S1burstmap_geojsontile_S1burstD1",
+          "title": "S1 Burst Map Des 1",
+          "iconUrl": "",
+          "url": "https://yumorishita.github.io/S1burstmap_geojsontile/S1burstD1/{z}/{x}/{y}.geojson",
+          "subdomains": "",
+          "attribution": "",
+          "errorTileUrl": "",
+          "cocotile": false,
+          "minZoom": 6,
+          "maxZoom": 18,
+          "maxNativeZoom": 6,
+          "legendUrl": "",
+          "html": "Data source: https://sar-mpc.eu/test-data-sets/<br>mod(path,5)=1"
+        },
+        {
+          "type": "Layer",
+          "id": "S1burstmap_geojsontile_S1burstD12",
+          "title": "S1 Burst Map Des 1",
+          "iconUrl": "",
+          "url": "https://yumorishita.github.io/S1burstmap_geojsontile/S1burstD1/{z}/{x}/{y}.geojson",
+          "subdomains": "",
+          "attribution": "",
+          "errorTileUrl": "",
+          "cocotile": false,
+          "minZoom": 1,
+          "maxZoom": 5,
+          "maxNativeZoom": 1,
+          "legendUrl": "",
+          "html": "Data source: https://sar-mpc.eu/test-data-sets/<br>mod(path,5)=1"
+        }
+      ]
+    },
+    {
+      "type": "LayerGroup",
+      "title": "S1 Burst Map Des 2",
+      "iconUrl": "",
+      "toggleall": false,
+      "id": "S1burstmap_geojsontile_S1burstD2_group",
+      "entries": [
+        {
+          "type": "Layer",
+          "id": "S1burstmap_geojsontile_S1burstD2",
+          "title": "S1 Burst Map Des 2",
+          "iconUrl": "",
+          "url": "https://yumorishita.github.io/S1burstmap_geojsontile/S1burstD2/{z}/{x}/{y}.geojson",
+          "subdomains": "",
+          "attribution": "",
+          "errorTileUrl": "",
+          "cocotile": false,
+          "minZoom": 6,
+          "maxZoom": 18,
+          "maxNativeZoom": 6,
+          "legendUrl": "",
+          "html": "Data source: https://sar-mpc.eu/test-data-sets/<br>mod(path,5)=2"
+        },
+        {
+          "type": "Layer",
+          "id": "S1burstmap_geojsontile_S1burstD22",
+          "title": "S1 Burst Map Des 2",
+          "iconUrl": "",
+          "url": "https://yumorishita.github.io/S1burstmap_geojsontile/S1burstD2/{z}/{x}/{y}.geojson",
+          "subdomains": "",
+          "attribution": "",
+          "errorTileUrl": "",
+          "cocotile": false,
+          "minZoom": 1,
+          "maxZoom": 5,
+          "maxNativeZoom": 1,
+          "legendUrl": "",
+          "html": "Data source: https://sar-mpc.eu/test-data-sets/<br>mod(path,5)=2"
+        }
+      ]
+    },
+    {
+      "type": "LayerGroup",
+      "title": "S1 Burst Map Des 3",
+      "iconUrl": "",
+      "toggleall": false,
+      "id": "S1burstmap_geojsontile_S1burstD3_group",
+      "entries": [
+        {
+          "type": "Layer",
+          "id": "S1burstmap_geojsontile_S1burstD3",
+          "title": "S1 Burst Map Des 3",
+          "iconUrl": "",
+          "url": "https://yumorishita.github.io/S1burstmap_geojsontile/S1burstD3/{z}/{x}/{y}.geojson",
+          "subdomains": "",
+          "attribution": "",
+          "errorTileUrl": "",
+          "cocotile": false,
+          "minZoom": 6,
+          "maxZoom": 18,
+          "maxNativeZoom": 6,
+          "legendUrl": "",
+          "html": "Data source: https://sar-mpc.eu/test-data-sets/<br>mod(path,5)=3"
+        },
+        {
+          "type": "Layer",
+          "id": "S1burstmap_geojsontile_S1burstD32",
+          "title": "S1 Burst Map Des 3",
+          "iconUrl": "",
+          "url": "https://yumorishita.github.io/S1burstmap_geojsontile/S1burstD3/{z}/{x}/{y}.geojson",
+          "subdomains": "",
+          "attribution": "",
+          "errorTileUrl": "",
+          "cocotile": false,
+          "minZoom": 1,
+          "maxZoom": 5,
+          "maxNativeZoom": 1,
+          "legendUrl": "",
+          "html": "Data source: https://sar-mpc.eu/test-data-sets/<br>mod(path,5)=3"
+        }
+      ]
+    },
+    {
+      "type": "LayerGroup",
+      "title": "S1 Burst Map Des 4",
+      "iconUrl": "",
+      "toggleall": false,
+      "id": "S1burstmap_geojsontile_S1burstD4_group",
+      "entries": [
+        {
+          "type": "Layer",
+          "id": "S1burstmap_geojsontile_S1burstD4",
+          "title": "S1 Burst Map Des 4",
+          "iconUrl": "",
+          "url": "https://yumorishita.github.io/S1burstmap_geojsontile/S1burstD4/{z}/{x}/{y}.geojson",
+          "subdomains": "",
+          "attribution": "",
+          "errorTileUrl": "",
+          "cocotile": false,
+          "minZoom": 6,
+          "maxZoom": 18,
+          "maxNativeZoom": 6,
+          "legendUrl": "",
+          "html": "Data source: https://sar-mpc.eu/test-data-sets/<br>mod(path,5)=4"
+        },
+        {
+          "type": "Layer",
+          "id": "S1burstmap_geojsontile_S1burstD42",
+          "title": "S1 Burst Map Des 4",
+          "iconUrl": "",
+          "url": "https://yumorishita.github.io/S1burstmap_geojsontile/S1burstD4/{z}/{x}/{y}.geojson",
+          "subdomains": "",
+          "attribution": "",
+          "errorTileUrl": "",
+          "cocotile": false,
+          "minZoom": 1,
+          "maxZoom": 5,
+          "maxNativeZoom": 1,
+          "legendUrl": "",
+          "html": "Data source: https://sar-mpc.eu/test-data-sets/<br>mod(path,5)=4"
+        }
+      ]
+    },
+    {
+      "type": "LayerGroup",
+      "title": "S1 Burst Map Des 5",
+      "iconUrl": "",
+      "toggleall": false,
+      "id": "S1burstmap_geojsontile_S1burstD5_group",
+      "entries": [
+        {
+          "type": "Layer",
+          "id": "S1burstmap_geojsontile_S1burstD5",
+          "title": "S1 Burst Map Des 5",
+          "iconUrl": "",
+          "url": "https://yumorishita.github.io/S1burstmap_geojsontile/S1burstD5/{z}/{x}/{y}.geojson",
+          "subdomains": "",
+          "attribution": "",
+          "errorTileUrl": "",
+          "cocotile": false,
+          "minZoom": 6,
+          "maxZoom": 18,
+          "maxNativeZoom": 6,
+          "legendUrl": "",
+          "html": "Data source: https://sar-mpc.eu/test-data-sets/<br>mod(path,5)=0"
+        },
+        {
+          "type": "Layer",
+          "id": "S1burstmap_geojsontile_S1burstD52",
+          "title": "S1 Burst Map Des 5",
+          "iconUrl": "",
+          "url": "https://yumorishita.github.io/S1burstmap_geojsontile/S1burstD5/{z}/{x}/{y}.geojson",
+          "subdomains": "",
+          "attribution": "",
+          "errorTileUrl": "",
+          "cocotile": false,
+          "minZoom": 1,
+          "maxZoom": 5,
+          "maxNativeZoom": 1,
+          "legendUrl": "",
+          "html": "Data source: https://sar-mpc.eu/test-data-sets/<br>mod(path,5)=0"
+        }
+      ]
+    }
+  ]
+}
