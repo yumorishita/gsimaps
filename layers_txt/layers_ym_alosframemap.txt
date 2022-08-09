@@ -17,9 +17,9 @@
           "attribution": "",
           "errorTileUrl": "",
           "cocotile": false,
-          "minZoom": 6,
+          "minZoom": 5,
           "maxZoom": 18,
-          "maxNativeZoom": 6,
+          "maxNativeZoom": 5,
           "legendUrl": "",
           "html": "Data: https://gsrt.digiarc.aist.go.jp/insarbrowser/index.html"
         },
@@ -34,7 +34,7 @@
           "errorTileUrl": "",
           "cocotile": false,
           "minZoom": 1,
-          "maxZoom": 5,
+          "maxZoom": 4,
           "maxNativeZoom": 1,
           "legendUrl": "",
           "html": ""
@@ -58,9 +58,9 @@
           "attribution": "",
           "errorTileUrl": "",
           "cocotile": false,
-          "minZoom": 6,
+          "minZoom": 5,
           "maxZoom": 18,
-          "maxNativeZoom": 6,
+          "maxNativeZoom": 5,
           "legendUrl": "",
           "html": "Data: https://gsrt.digiarc.aist.go.jp/insarbrowser/index.html"
         },
@@ -75,7 +75,7 @@
           "errorTileUrl": "",
           "cocotile": false,
           "minZoom": 1,
-          "maxZoom": 5,
+          "maxZoom": 4,
           "maxNativeZoom": 1,
           "legendUrl": "",
           "html": ""
@@ -99,9 +99,9 @@
           "attribution": "",
           "errorTileUrl": "",
           "cocotile": false,
-          "minZoom": 6,
+          "minZoom": 5,
           "maxZoom": 18,
-          "maxNativeZoom": 6,
+          "maxNativeZoom": 5,
           "legendUrl": "",
           "html": "Data: https://gsrt.digiarc.aist.go.jp/insarbrowser/index.html"
         },
@@ -116,7 +116,7 @@
           "errorTileUrl": "",
           "cocotile": false,
           "minZoom": 1,
-          "maxZoom": 5,
+          "maxZoom": 4,
           "maxNativeZoom": 1,
           "legendUrl": "",
           "html": ""
@@ -140,9 +140,9 @@
           "attribution": "",
           "errorTileUrl": "",
           "cocotile": false,
-          "minZoom": 6,
+          "minZoom": 5,
           "maxZoom": 18,
-          "maxNativeZoom": 6,
+          "maxNativeZoom": 5,
           "legendUrl": "",
           "html": "Data: https://gsrt.digiarc.aist.go.jp/insarbrowser/index.html"
         },
@@ -157,7 +157,7 @@
           "errorTileUrl": "",
           "cocotile": false,
           "minZoom": 1,
-          "maxZoom": 5,
+          "maxZoom": 4,
           "maxNativeZoom": 1,
           "legendUrl": "",
           "html": ""
