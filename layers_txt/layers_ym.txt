@@ -43,6 +43,18 @@
           "title": "Sentinel-1 lsmap Japan",
           "toggleall": false,
           "src": "./layers_ym_s1lsmapjp.txt"
+        },
+        {
+          "type": "LayerGroup",
+          "title": "Sentinel-1 LiCSBAS results Japan",
+          "toggleall": false,
+          "src": "./layers_ym_s1licsbas.txt"
+        },
+        {
+          "type": "LayerGroup",
+          "title": "ALOS LiCSBAS results Japan",
+          "toggleall": false,
+          "src": "./layers_ym_aloslicsbas.txt"
         }
       ]
     }
